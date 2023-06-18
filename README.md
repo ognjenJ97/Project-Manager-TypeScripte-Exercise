@@ -1,6 +1,6 @@
 # ProjectManager - TypeScripte exercise app
 
-A TypeScript project management application that allows you to create and manage projects.
+This is a small TypeScripte application for exercise that allows you to create and manage projects.
 
 ## About
 
